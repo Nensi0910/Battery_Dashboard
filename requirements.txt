@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+streamlit-theme
+altair
+openpyxl
+xlsxwriter
+scipy
+streamlit-autorefresh
+matplotlib
